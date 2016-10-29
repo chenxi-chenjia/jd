@@ -1,0 +1,30 @@
+
+body,h1,h2,h3,h4,h5,h6,p,pre,ol,ul,li,form,input,textarea,dl,dt,dd{
+margin:0;
+padding:0;
+}
+ul,ol,dl,dt,dd,li{
+list-style:none;
+}
+a{
+text-decoration:none;
+}
+a:hover{
+	color: #c81623;
+}
+
+*{
+font-family:"微软雅黑","sans-serif";
+color: #666;
+font-size: 12px;
+}
+* img{
+	border:none;
+}
+.h1{
+	z-index: 50;
+	display: none;
+}
+i{
+	font-style: normal; 
+}
